@@ -44,8 +44,6 @@ A Bank Management System in C++
 
 **NOTE :-** This programme is tested on `Ubuntu 20.04`
 
-May show error in `Windows`
-
 ---
 
 ## Screenshots <a name = "screenshots"></a>
