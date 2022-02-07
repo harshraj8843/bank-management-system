@@ -26,7 +26,7 @@ A Bank Management System in C++
 
 - clone project
   ```
-  git clone https://github.com/novicexp/bank-management-system
+  git clone https://github.com/harshraj8843/bank-management-system
   ```
   ```
   cd bank-management-system/
