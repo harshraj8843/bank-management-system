@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Github Repo Size](https://img.shields.io/github/repo-size/novicexp/bank-management-system)](https://github.com/novicexp/bank-management-system)
+[![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/bank-management-system)](https://github.com/harshraj8843/bank-management-system)
 
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/novicexp/bank-management-system) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/novicexp/bank-management-system)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/harshraj8843/bank-management-system) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/harshraj8843/bank-management-system)
 
 </div>
 
